@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 1ABF-5E43
+
+ R‚pertoire de C:\Users\SCPC\Desktop\Myproject
+
+15/11/2020  09:47    <DIR>          .
+15/11/2020  09:47    <DIR>          ..
+15/11/2020  09:47                 0 test4.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  258ÿ155ÿ401ÿ216 octets libres
